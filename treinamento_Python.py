@@ -21,5 +21,5 @@ primeiro = input ('Digite o primeiro numero: ')
 segundo = input ('Segundo: ')
 resultado = int(primeiro) + int(segundo)
 
-print( 'A soma total é: ',resultado)
+print( 'A soma total é: {} '.format(resultado))
 
