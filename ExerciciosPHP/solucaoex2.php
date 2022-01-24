@@ -29,9 +29,9 @@ $v2 = $valor / 2 ;
 
 if (is_int($v2)) {
 
-  ?> <b> <p> <?php  echo 'É divicivel por 5';
+  ?> <b> <p> <?php  echo 'É divicivel por 2';
 } else {
-  ?> <b> <p> <?php echo 'Não dificivel por 5';
+  ?> <b> <p> <?php echo 'Não dificivel por 2';
 }
 
 

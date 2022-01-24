@@ -14,7 +14,7 @@
  Segundo Valor :
  <input name="valor2" type="number" /> </p> </b>
  <input name="enviar" type="submit" value="Calcular" />
- <form action="solucaoex1.php" method="post"></form>
+</form>
 
 
 
@@ -34,7 +34,7 @@
  <input name="enviar" type="submit" value="Calcular" />
 
 
- <form action="solucaoex2.php" method="post"></form>
+ </form>
 
 
  <br>
@@ -58,9 +58,25 @@
   <option value="2">Feminino</option>
 </select> <br>
 <p><input name="enviar" type="submit" value="Eniviar" /></p>
- <form action="solucaoex3.php" method="post"></form>
+</form>
 
  
+ <form action="solucaoex4.php" method="post">
+<p> <b> Exercício 4 </b></p>
+
+<textarea name="exe3" cols="30" rows="10" readonly="readonly">Entrar com o número de vezes que se deseja imprimir a palavra SOL e imprimir</textarea> <br />
+<br>
+<br>
+<br>
+<p>QTD : <input name="qtd" type="number" /> </p> </b>
+<p><input name="enviar" type="submit" value="Eniviar" /></p>
+
+
+
+
+
+
+
 
 
 </body>
